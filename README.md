@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on getting an internship
+- 🔭 I’m currently working on building my career
 - 🌱 I’m currently learning data scientist with python track
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: ebra.rabe3@gmail.com
