@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building my career
-- 🌱 I’m currently learning data scientist with python track
+- 🌱 I’m currently learning Big Data Masterclass
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: ebra.rabe3@gmail.com
 - ⚡ Fun fact: potterhead
